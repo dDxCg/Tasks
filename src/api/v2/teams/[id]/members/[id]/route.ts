@@ -1,0 +1,1 @@
+//uri: api/v2/teams/[id]/members/[id]
