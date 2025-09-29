@@ -1,5 +1,5 @@
 export interface Task {
-  id: number; // Prisma Int with autoincrement
+  id: number; // Int with autoincrement
   title: string;
   description?: string; // optional
   status: "TODO" | "IN_PROGRESS" | "DONE";
